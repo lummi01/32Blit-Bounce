@@ -1,3 +1,4 @@
+![](/assets/image.png)
 # Bounce
 a simple reaction game for 32Blit.
 
